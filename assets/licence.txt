@@ -1,0 +1,7 @@
+All assets within this project are either generated or created from scratch by the project author and are released under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+
+- The "hero" sprite sheet (assets/sprites/hero.png) and "coin" collectible (assets/sprites/coin.png) were created using Python's Pillow library. The author grants these files into the public domain.
+- The background (assets/tilesets/background.png) was generated using a text-to-image model under OpenAI's image generation tool and is considered a new, original work free from any copyright claims. It is also released under CC0.
+- No proprietary or copyrighted game sprites, tilesets, code or music from Contra or any other commercial game are used in this project.
+
+Therefore, you are free to copy, modify, distribute and use the assets for any purpose, even commercially, without asking permission.

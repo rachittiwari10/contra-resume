@@ -1,0 +1,97 @@
+{
+  "contact": {
+    "name": "Rachit Tiwari",
+    "email": "rachittiwari10@gmail.com",
+    "phone": "+919589762453",
+    "location": "Gurgaon, Haryana, India"
+  },
+  "summary": "Results-driven and adaptable Product Manager with over 6+ years of experience in both product and program management, specializing in managing diverse product portfolios, including SaaS, B2C applications, and CRM. Proven success in driving innovation, cross-functional collaboration, and delivering high-impact products.",
+  "skills": [
+    "Product Strategy & Roadmap Planning",
+    "Agile Development Methodologies",
+    "User Experience & Design Thinking",
+    "Cross-Functional Team Leadership",
+    "Technical Documentation",
+    "Stakeholder Management",
+    "Data Analysis & Visualization",
+    "SaaS & B2C",
+    "CRM (SFA & DMS)",
+    "Postman",
+    "JIRA",
+    "Analytical Tools",
+    "Figma",
+    "SDLC",
+    "Whimsical",
+    "SQL"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech, Fire Technology & Safety Engineering",
+      "institution": "IPS Academy, Indore, MP",
+      "duration": "Jun 2014 - Jun 2017"
+    },
+    {
+      "degree": "Diploma in Chemical Engineering",
+      "institution": "SATI, Vidisha, MP",
+      "duration": "Jun 2010 - Jun 2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Product Manager - SAAS (Enterprise)",
+      "company": "Fieldassist, Gurgaon, HR",
+      "duration": "Aug 2024 - Jan 2025",
+      "achievements": [
+        "Led end-to-end product development initiatives specializing in enterprise CRM solutions, successfully onboarding key accounts generating 10+ Cr in annual revenue through tailored SaaS implementations."
+      ]
+    },
+    {
+      "title": "Product Owner - SaaS Products",
+      "company": "AuthBridge, Gurgaon, HR",
+      "duration": "Jan 2024 - Aug 2024",
+      "achievements": [
+        "Managed multi-product portfolios for AuthBridge's B2B SaaS products (Ergon, DKYC, Signdrive, OnboardX) across client and internal environments, contributing to an annual revenue of ₹50 crores.",
+        "Streamlined product journeys and features, reducing engineering dependency by 70% through tenant-specific customizations.",
+        "Incorporated new features, conducted UAT tests, and integrated APIs to achieve timely product delivery.",
+        "Developed user stories, BRDs, use case documents, and ISO compliance audits, and analyzed market competition to create user-centric products."
+      ]
+    },
+    {
+      "title": "Senior Product Manager - Consumer Products",
+      "company": "VLCC Group, Gurgaon, HR",
+      "duration": "Aug 2022 - Jan 2024",
+      "achievements": [
+        "Spearheaded the management of a diverse product portfolio, including CRM (SFA & DMS) and an in-house Skin Analyzer application utilizing AI for personalized product recommendations.",
+        "Led the deployment of the Skin Analyzer tool across 200+ retail outlets, resulting in over ₹50 Lacs in direct sales within the first month through strategic product recommendations.",
+        "Developed and enhanced an in-house CRM system that manages a ₹100 crore annual business, tracking sales, managing inventory, and improving sales team productivity.",
+        "Directed cross-functional teams of 10+ members, including Customer Support, Data Analysts, Project Managers, and technical resources (Front-End, Back-End, QA, and UI/UX)."
+      ]
+    },
+    {
+      "title": "Founder",
+      "company": "Massoi, Gurugram, HR",
+      "duration": "Sep 2021 - Aug 2022",
+      "achievements": [
+        "Founded a marketplace for home chefs and tiffin centers, delivering 4000+ meals and generating ₹4.8 lacs in revenue."
+      ]
+    },
+    {
+      "title": "Assistant Manager - Program Management",
+      "company": "Jio Mart, Reliance Retail, South Delhi",
+      "duration": "Nov 2020 - Dec 2021",
+      "achievements": [
+        "Launched Jio Mart in 30+ retail stores across South Delhi, Faridabad, and Greater Noida, contributing ₹10 crores to overall store revenue.",
+        "Launched project Akshaya Patra, reducing delivery TAT from 4 days to same-day and optimizing store headcount, saving ₹15 lacs."
+      ]
+    },
+    {
+      "title": "Assistant Manager - Program Management",
+      "company": "Amazon Seller Services, Ludhiana",
+      "duration": "Jan 2018 - Feb 2020",
+      "achievements": [
+        "Oversaw 200+ security professionals to avoid theft at 20+ fulfillment, sortation, and delivery centers in Punjab, HP, and J&K, serving 500 pincodes and delivering 100K shipments per day.",
+        "Led the delivery of analytics in the north zone to support effective target-setting, red alerts, and operational audits to achieve yearly goals and budgets."
+      ]
+    }
+  ]
+}

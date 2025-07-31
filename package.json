@@ -1,0 +1,12 @@
+{
+  "name": "contra-resume",
+  "version": "1.0.0",
+  "description": "Interactive résumé game for Rachit Tiwari using Phaser 3.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "python3 -m http.server 3000 --directory .",
+    "start": "npm run dev"
+  },
+  "author": "Rachit Tiwari and Contributors",
+  "license": "CC0-1.0"
+}
